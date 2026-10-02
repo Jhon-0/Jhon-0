@@ -1,4 +1,4 @@
-# Hola, soy Jhon Vargas 👋
+# Hola, soy Jhon 👋
 
 ### Desarrollador Full Stack Junior | Java · Spring Boot · Angular
 
