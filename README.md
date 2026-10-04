@@ -72,9 +72,6 @@ Aplicación web para gestionar incidencias técnicas, desarrollada en un equipo 
 - Diseño del modelo de datos, la API REST y la estructura del repositorio
 - Metodología Scrum, con sprints organizados en Trello
 
-#### 🌱 [SpringBoot](https://github.com/Jhon-0/SpringBoot): prácticas del curso Full Stack
-
-Ejercicios y pequeñas aplicaciones con Java y Spring Boot desarrollados durante la formación.
 
 ---
 
