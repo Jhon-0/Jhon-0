@@ -4,7 +4,7 @@
 
 Desarrollador en formación con base en sistemas y redes. Trabajo sobre todo en el backend con Java y Spring Boot, y en el frontend con Angular. Vengo de años de atención al cliente y soporte técnico, así que me gusta entender bien el problema antes de programar la solución.
 
-📍 Sevilla, España &nbsp;|&nbsp; 📧 scorpion.tlv@gmail.com
+
 
 ---
 
@@ -85,5 +85,3 @@ Ejercicios y pequeñas aplicaciones con Java y Spring Boot desarrollados durante
 - 🇨🇳 Chino mandarín: en aprendizaje
 
 ---
-
-📫 ¿Hablamos? Escríbeme a **scorpion.tlv@gmail.com**
